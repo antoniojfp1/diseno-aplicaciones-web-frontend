@@ -1,3 +1,15 @@
+# Diseño de aplicaciones Web
+
+## Grupo de trabajo
+
+- Fernandez Antonio
+- Peña Juan Carlos
+- Barceló Yaliza
+
+
+## Repositorio
+https://github.com/antoniojfp1/diseno-aplicaciones-web-frontend/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
