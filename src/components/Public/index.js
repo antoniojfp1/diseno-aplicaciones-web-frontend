@@ -11,9 +11,11 @@ const Public = (props) => {
   
   <Switch>
     <Route path="/login">
-        <Login setIsAuth={props.setIsAuth} />
+      <Login setIsAuth={props.setIsAuth} />
     </Route>
-    <Route path="/signup" component={SignUp}></Route>
+    <Route exact path="/SignUp">
+      <SignUp setIsAuth={props.setIsAuth}/>
+    </Route>
     <Route path="/passwordRecovery" component={PasswordRecovery}></Route>
     <Route exact path="/" component={Home}></Route>
   </Switch>
