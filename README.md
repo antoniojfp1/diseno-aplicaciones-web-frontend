@@ -12,6 +12,15 @@ https://github.com/antoniojfp1/diseno-aplicaciones-web-frontend/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Componente publico
+- Login: Para ingresar al perfil
+- Sign up: Para crear una nueva cuenta
+- Password recovery: Para recuperar una contraseña olvidada
+
+## Componente privado
+- Profile: Consulta  el perfil del usurio
+- New Tweet: Para que el usuario cree un neuvo tweet
+
 ## Available Scripts
 
 In the project directory, you can run:
